@@ -7,7 +7,9 @@
  * - name إن استقبلت اسم أو "Hello <name>" تطبع
  */
 
-function greet(name) {}
+function greet(name) {
+    console.log(Hello)
+}
 
 /*
  * isOdd(n) اسم الدالة
